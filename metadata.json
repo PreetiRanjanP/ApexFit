@@ -1,0 +1,6 @@
+{
+  "name": "ApexFit SaaS",
+  "description": "Enterprise-grade SaaS platform for Gym Owners, Trainers, and Members. Features AI workout generation, diet plans, class bookings, payments, and multi-tenant analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
